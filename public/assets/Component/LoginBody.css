@@ -1,0 +1,32 @@
+.mainbody {
+  width: 100%;
+  text-align: center;
+}
+
+.loginbox {
+  margin: auto 0;
+  padding: 130px 0px 100px 0px ;
+  height: 200px;
+  width: 400px;
+  /* background-color: rgb(209, 24, 24); */
+  display: inline-block;
+
+}
+
+.loginform{
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    border: 1px solid black;
+    box-shadow: 0 0 10px rgba(14, 14, 14, 0.26);
+}
+
+.loginform ul li{
+    height: 30px;
+    width: 400px;
+    display: inline-block;
+
+}
+
+
+
